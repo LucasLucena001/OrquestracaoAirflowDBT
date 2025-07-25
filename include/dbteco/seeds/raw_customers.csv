@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,created_at
+1,Vicente,Leão,aragaostella@example.net,2023-11-16
+2,Pedro Lucas,da Cruz,paulogarcia@example.org,2024-12-28
+3,Pedro Miguel,Montenegro,theodoro31@example.org,2025-06-21
+4,Gabriel,da Cunha,sousasophia@example.net,2024-02-29
+5,Larissa,Teixeira,biancada-mata@example.com,2024-06-30
+6,Bruno,Almeida,julianascimento@example.com,2025-03-11
+7,Igor,Fonseca,julianavasconcelos@example.net,2024-04-14
+8,Guilherme,Vasconcelos,uda-paz@example.org,2023-11-11
+9,Elisa,Pires,nogueiramatteo@example.org,2025-04-21
+10,Alice,Melo,nsa@example.net,2024-05-18
+11,Hellena,Leão,alexiarios@example.net,2023-10-26
+12,Ravi,Cassiano,rhavida-paz@example.org,2025-07-01
+13,Ayla,Rocha,emanuellacastro@example.com,2025-03-17
+14,Caroline,Cavalcanti,theoazevedo@example.com,2024-06-25
+15,Thales,Sampaio,joao-vitor70@example.org,2023-09-23
+16,Emanuella,Vieira,gcavalcante@example.net,2025-05-05
+17,João Lucas,Duarte,vieirajoao-guilherme@example.com,2025-01-31
+18,Brayan,Fonseca,jesusluiz-gustavo@example.org,2024-05-21
+19,Ana Carolina,Cunha,maysasouza@example.org,2024-01-29
+20,Mariah,Ramos,gabrielabarros@example.net,2024-05-02
+21,Vinícius,Andrade,vieiracaleb@example.org,2025-06-24
+22,Valentim,Andrade,brenda84@example.org,2023-09-14
+23,Valentina,Ribeiro,jesusoliver@example.org,2025-03-10
+24,Daniela,Nunes,britosophie@example.com,2024-05-07
+25,Thiago,Vargas,ryan64@example.org,2023-12-16
+26,Marcos Vinicius,Novais,yanalbuquerque@example.com,2024-04-26
+27,Brenda,Cunha,ribeiromaria-laura@example.org,2024-08-29
+28,Nicole,Aragão,henry82@example.net,2025-03-01
+29,Stella,Cunha,dcunha@example.com,2024-06-27
+30,Bruna,Sá,enzo70@example.com,2024-06-02
+31,Anthony Gabriel,Sales,hmoraes@example.com,2024-01-20
+32,Maria Eduarda,Cunha,lunarocha@example.net,2024-09-10
+33,Maria Fernanda,Leão,rda-conceicao@example.net,2023-10-28
+34,Luiz Felipe,Correia,siqueiradavi-luiz@example.com,2023-08-02
+35,Beatriz,Castro,emanuella70@example.com,2025-07-15
+36,Maria Sophia,Camargo,gcassiano@example.net,2024-05-10
+37,Ísis,da Cruz,fernandesjose-miguel@example.org,2024-02-20
+38,Gustavo,Castro,wsilveira@example.net,2025-05-17
+39,Isis,Ramos,caio36@example.net,2024-08-22
+40,Calebe,Marques,souzamurilo@example.com,2024-07-07
+41,Arthur Miguel,Sampaio,maria-cecilia41@example.net,2024-02-03
+42,Eloá,Alves,isa@example.net,2023-10-10
+43,Julia,Nascimento,pachecobryan@example.com,2024-09-01
+44,Maria Cecília,da Rosa,maria-lizsilva@example.com,2023-11-20
+45,Esther,da Conceição,drocha@example.com,2025-06-19
+46,Lara,Abreu,theo59@example.org,2024-07-28
+47,Luiz Miguel,Melo,earaujo@example.com,2024-05-03
+48,Benício,Caldeira,augusto72@example.net,2024-03-13
+49,Leonardo,Macedo,maria-lizmoreira@example.org,2024-03-23
+50,João Gabriel,Montenegro,moreiralucas@example.com,2025-05-30

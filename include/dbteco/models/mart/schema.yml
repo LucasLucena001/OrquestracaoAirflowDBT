@@ -1,0 +1,33 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: Dimensão de clientes com nome completo e e-mail
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+
+  - name: dim_products
+    description: Dimensão de produtos
+    columns:
+      - name: product_id
+        tests:
+          - not_null
+          - unique
+
+  - name: fct_orders
+    description: Fato de pedidos com métricas de valor e quantidade
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+          - unique
+
+  - name: mart_top_customers
+    description: Top 10 clientes com maior volume financeiro em pedidos completados
+    columns:
+      - name: customer_id
+        tests:
+          - not_null

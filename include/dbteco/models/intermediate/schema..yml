@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: int_orders_enriched
+    description: Pedidos enriquecidos com cliente e pagamento
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+          - unique
+
+  - name: int_order_items_enriched
+    description: Itens de pedidos enriquecidos com produto e cliente
+    columns:
+      - name: order_item_id
+        tests:
+          - not_null
+          - unique

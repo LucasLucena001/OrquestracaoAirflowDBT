@@ -1,0 +1,43 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: Clientes com nome e e-mail padronizados
+    columns:
+      - name: customer_id
+        description: ID do cliente
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_products
+    description: Produtos com categorias e nomes formatados
+    columns:
+      - name: product_id
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_orders
+    description: Pedidos com status e data formatados
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_order_items
+    description: Itens dos pedidos com preço unitário
+    columns:
+      - name: order_item_id
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_payments
+    description: Pagamentos com métodos padronizados
+    columns:
+      - name: payment_id
+        tests:
+          - not_null
+          - unique

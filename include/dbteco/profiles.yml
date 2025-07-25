@@ -1,0 +1,12 @@
+dbteco:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: host.docker.internal
+      port: 5433
+      user: postgres
+      password: postgres
+      dbname: db_eco
+      schema: public
+      threads: 1
